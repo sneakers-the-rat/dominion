@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "30550b98ef3bdd05",
+    "type": "split",
+    "children": [
+      {
+        "id": "b537cb18179b5901",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cards/Harem.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e93c313cfc57b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "285ce2fc67c94414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0a08108f320288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f3e74e54de85b1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a70fbb3340260df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4485fbc5f87e8a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bffac105c7fef8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cards/Harem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b537cb18179b5901",
+  "lastOpenFiles": [
+    "cards/Harem.md",
+    "cards/Mint.md",
+    "cards/Courtier.md",
+    "tiers/Tier S.md",
+    "cards/Goons.md",
+    "effects/Encourages Duplicates.md",
+    "effects/Trash.md",
+    "cards/Watchtower.md",
+    "effects/Encourages Buying.md",
+    "strategies/Union Goons.md"
+  ]
+}

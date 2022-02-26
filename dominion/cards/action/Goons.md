@@ -1,3 +1,4 @@
+[[Action]]
 A [[Will]] Card ™️:
 [[Tier S]]
 

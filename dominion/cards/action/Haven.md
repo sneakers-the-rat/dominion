@@ -1,3 +1,4 @@
+[[Action]]
 [[Duration]]
 
 [[Replaces Self]]

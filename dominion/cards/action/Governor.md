@@ -1,0 +1,6 @@
+[[Action]]
+[[+ Gold]]
+[[+3 Cards]]
+[[+ Card]]
+[[Trash and Gain]]
+[[Helps Others]]

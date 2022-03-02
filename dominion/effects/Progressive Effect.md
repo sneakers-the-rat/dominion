@@ -1,0 +1,1 @@
+Effects that increase in magnitude over the game, eg. [[Token]]-based cards

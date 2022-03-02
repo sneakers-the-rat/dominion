@@ -1,0 +1,7 @@
+[[Action]]
+[[Replaces Self]]
+[[+ Card]]
+[[+ Action]]
+[[Topdeck]]
+[[Deck Sorting]]
+[[Undiscard]]

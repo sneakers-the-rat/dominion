@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
-  "search": "",
-  "showTags": false,
+  "collapse-filter": false,
+  "search": "-path:\"card types\"",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -45,14 +45,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.50334558823529,
+  "lineSizeMultiplier": 0.871029411764706,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 16.5308988764045,
+  "centerStrength": 0.100827205882353,
+  "repelStrength": 19.1617647058824,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5251513086863822,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.31534714910522943,
+  "close": true
 }

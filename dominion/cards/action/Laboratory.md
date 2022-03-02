@@ -1,0 +1,5 @@
+[[Action]]
+[[+2 Card]]
+[[+ Card]]
+[[+ Action]]
+[[Replaces Self]]

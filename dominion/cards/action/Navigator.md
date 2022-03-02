@@ -1,0 +1,6 @@
+[[Action]]
+[[+ Gold]]
+[[+2 Money]]
+[[Deck Sorting]]
+[[Discard]]
+[[Topdeck]]

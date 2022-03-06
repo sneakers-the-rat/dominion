@@ -1,0 +1,5 @@
+[[+ Card]]
+[[+ Action]]
+[[+ Buys]]
+[[Exiles]]
+[[Action]]

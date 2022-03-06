@@ -4,3 +4,4 @@
 [[+ Card]]
 [[Trash and Gain]]
 [[Helps Others]]
+[[Choose Action]]

@@ -1,0 +1,1 @@
+[[Gives Others Shit Cards]], specifically a [[Curse]]

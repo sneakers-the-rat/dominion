@@ -1,0 +1,8 @@
+[[Action]]
+[[+ Card]]
+[[+ Action]]
+[[Replaces Self]]
+[[Reveals]]
+[[Discard]]
+[[Choose Action]]
+[[Discard and Effect]]

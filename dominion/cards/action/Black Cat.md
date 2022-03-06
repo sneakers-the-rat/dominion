@@ -1,0 +1,6 @@
+[[Curses]]
+[[Action]]
+[[Reaction]]
+[[Effect When Others Gain]]
+[[+ Card]]
+[[+2 Card]]

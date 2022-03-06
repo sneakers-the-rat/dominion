@@ -1,0 +1,5 @@
+[[+ Card]]
+[[+ Action]]
+[[+ Gold]]
+[[Trash]]
+[[Action]]

@@ -1,0 +1,6 @@
+[[Action]]
+[[+ Card]]
+[[+ Action]]
+[[+ Money]]
+[[Discard]]
+[[Discard and Gain Cards]]

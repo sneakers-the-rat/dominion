@@ -1,0 +1,1 @@
+[[Effect]]s that cause you or other players to do other actions or effects.

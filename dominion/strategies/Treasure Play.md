@@ -1,0 +1,1 @@
+Get as many [[Treasure]] as possible

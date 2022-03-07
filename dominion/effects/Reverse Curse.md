@@ -1,0 +1,1 @@
+[[Curses]] using a [[Curse]] that you have been cursed with

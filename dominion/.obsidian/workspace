@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cards/victory/Garden.md",
+            "file": "cards/treasure/Treasure Trove.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "treasure ma",
+                "query": "Amb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/victory/Garden.md",
+                "file": "cards/treasure/Treasure Trove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1d38f55cfb98ec9c",
   "lastOpenFiles": [
-    "cards/victory/Garden.md",
-    "strategies/copper deck.md",
-    "cards/action/Counting House.md",
-    "effects/Draw From Discard.md",
-    "cards/Curse.md",
-    "effects/Curses.md",
-    "effects/Hand to Deck.md",
-    "effects/Helps Others.md",
-    "effects/Increases Deck Size.md",
-    "effects/Islands.md"
+    "cards/treasure/Treasure Trove.md",
+    "effects/Reverse Curse.md",
+    "cards/action/Ambassador.md",
+    "cards/action/Scheme.md",
+    "strategies/Leslie Leandeck.md",
+    "card types/Money.md",
+    "strategies/Treasure Play.md",
+    "cards/action/Patrol.md",
+    "effects/trash/Trash and Gain.md",
+    "effects/Few Cards.md"
   ]
 }

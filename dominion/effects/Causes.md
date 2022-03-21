@@ -1,1 +1,11 @@
-[[Effect]]s that cause you or other players to do other actions or effects.
+[[Effect]]s that cause you or other players to do other actions or effects. Also [[Encourages]]
+
+[[Causes Many Cards]]
+[[Causes Discarding]]
+[[Causes Others to Discard]]
+[[Encourages Buying]]
+[[Encourages Chaining]]
+[[Encourages Duplicates]]
+[[Encourages Discarding]]
+[[Encourages Action Cards]]
+[[Encourages Expensive Cards]]

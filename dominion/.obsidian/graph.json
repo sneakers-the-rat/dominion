@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"card types\" -path:\"expansions\"",
+  "search": "-file:\"Action\"",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:cards",
+      "query": "path:\"cards/\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:effects",
+      "query": "path:\"effects/\"",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:expansions",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -50,9 +57,9 @@
   "lineSizeMultiplier": 2.2177734375,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 16.5699404761905,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.42531860587830567,
+  "scale": 0.07565873984732188,
   "close": false
 }

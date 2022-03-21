@@ -1,2 +1,2 @@
-[[Treasure]]
+[[Victory]]
 [[Shit Card]]

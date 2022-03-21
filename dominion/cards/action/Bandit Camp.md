@@ -1,0 +1,7 @@
+[[Dark Ages]]
+[[Action]]
+[[+ Card]]
+[[+ Action]]
+[[Replaces Self]]
+[[+2 Action]]
+[[+ Spoils]]

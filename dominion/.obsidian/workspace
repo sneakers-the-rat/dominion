@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1d38f55cfb98ec9c",
+        "id": "8e71be1734d6b3d1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cards/treasure/Treasure Trove.md",
+            "file": "cards/Pathfinding.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Amb",
+                "query": "many cards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/treasure/Treasure Trove.md",
+                "file": "cards/Pathfinding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d38f55cfb98ec9c",
+  "active": "8e71be1734d6b3d1",
   "lastOpenFiles": [
-    "cards/treasure/Treasure Trove.md",
-    "effects/Reverse Curse.md",
-    "cards/action/Ambassador.md",
-    "cards/action/Scheme.md",
-    "strategies/Leslie Leandeck.md",
-    "card types/Money.md",
-    "strategies/Treasure Play.md",
-    "cards/action/Patrol.md",
-    "effects/trash/Trash and Gain.md",
-    "effects/Few Cards.md"
+    "cards/Pathfinding.md",
+    "strategies/Many Cards.md",
+    "card types/Horizontal Card/Horizontal Card.md",
+    "card types/Horizontal Card/Landmark.md",
+    "card types/Horizontal Card/Artifact.md",
+    "card types/Horizontal Card/Ally.md",
+    "card types/Horizontal Card/Way.md",
+    "card types/Horizontal Card/Project.md",
+    "card types/Horizontal Card/Hex.md",
+    "card types/Horizontal Card/Boon.md"
   ]
 }

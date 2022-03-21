@@ -1,0 +1,1 @@
+Effects that you can choose but don't have to, which are lol i mean intrinsically more flexible

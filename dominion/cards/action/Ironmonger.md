@@ -6,3 +6,5 @@
 [[Discard]]
 [[Choose Action]]
 [[Discard and Effect]]
+
+Very good for [[Churn]] and [[Effect On Reveal]] or [[Effect On Discard]]

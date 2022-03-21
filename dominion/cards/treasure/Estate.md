@@ -1,0 +1,2 @@
+[[Treasure]]
+[[Shit Card]]

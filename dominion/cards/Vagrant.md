@@ -1,0 +1,6 @@
+[[Action]]
+[[+ Card]]
+[[+ Action]]
+[[Replaces Self]]
+[[Reveals]]
+[[Shit Cards To Hand]]

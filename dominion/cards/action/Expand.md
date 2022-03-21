@@ -1,4 +1,5 @@
 [[Action]]
 [[Trash]]
 [[Trash and Gain]]
+[[Upgrading]]
 [[+3 Trash and Gain]]

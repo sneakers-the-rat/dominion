@@ -1,0 +1,6 @@
+[[Estate]]
+[[Copper]]
+[[Shelter]]
+[[Hovel]]
+[[Ruins]]
+[[Overgrown Estate]]

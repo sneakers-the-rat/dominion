@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "22277ff34f83c82f",
+        "id": "e351493eaf53b6ca",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "many cards",
+                "query": "marg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "22277ff34f83c82f",
+  "active": "e351493eaf53b6ca",
   "lastOpenFiles": [
+    "Margrave.md",
+    "effects/causes/Causes Others to Discard.md",
+    "Crossroads.md",
+    "phases/Early Game.md",
+    "effects/causes/Encourages Duplicates.md",
+    "Untitled.md",
+    "Mastermind.md",
     "cards/treasure/Estate.md",
     "effects/Causes.md",
-    "cards/action/Courtier.md",
-    "Gain Treasure.md",
-    "effects/gain/+ Gold.md",
-    "+3 Money.md",
-    "effects/gain/+ Money.md",
-    "effects/reveal/Reveal and Gain Card.md",
-    "cards/action/Horse.md",
-    "effects/On Play.md"
+    "cards/action/Courtier.md"
   ]
 }

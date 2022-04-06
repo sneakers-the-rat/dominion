@@ -1,0 +1,6 @@
+[[Prosperity]]
+[[Action]]
+[[+ Money]]
+[[+ Victory Point]]
+[[Trash]]
+[[Trash and Gain Victory Points]]

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e351493eaf53b6ca",
+        "id": "0563882388dcd6bd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "status/Incomplete.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marg",
+                "query": "inco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 223
+    "width": 223,
+    "collapsed": true
   },
   "right": {
     "id": "a70fbb3340260df9",
@@ -65,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "status/Incomplete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,19 +86,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e351493eaf53b6ca",
+  "active": "0563882388dcd6bd",
   "lastOpenFiles": [
-    "Margrave.md",
-    "effects/causes/Causes Others to Discard.md",
-    "Crossroads.md",
-    "phases/Early Game.md",
-    "effects/causes/Encourages Duplicates.md",
+    "status/Incomplete.md",
+    "Embargo.md",
+    "Spoils.md",
+    "Liaison.md",
+    "cards/treasure/Venture.md",
+    "cards/action/Tragic Hero.md",
+    "cards/treasure/Treasure Trove 1.md",
     "Untitled.md",
-    "Mastermind.md",
-    "cards/treasure/Estate.md",
-    "effects/Causes.md",
-    "cards/action/Courtier.md"
+    "effects/Trashes Self.md",
+    "card types/Shelters.md"
   ]
 }

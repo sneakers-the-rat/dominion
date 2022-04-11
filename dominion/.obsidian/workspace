@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0563882388dcd6bd",
+        "id": "6afcaffcfb78f900",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "status/Incomplete.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,13 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 223,
-    "collapsed": true
+    "width": 223
   },
   "right": {
     "id": "a70fbb3340260df9",
@@ -71,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "status/Incomplete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0563882388dcd6bd",
+  "active": "6afcaffcfb78f900",
   "lastOpenFiles": [
-    "status/Incomplete.md",
+    "cards/allies/League of Bankers.md",
     "Embargo.md",
-    "Spoils.md",
-    "Liaison.md",
-    "cards/treasure/Venture.md",
-    "cards/action/Tragic Hero.md",
-    "cards/treasure/Treasure Trove 1.md",
     "Untitled.md",
-    "effects/Trashes Self.md",
-    "card types/Shelters.md"
+    "Spoils.md",
+    "cards/action/Skulk.md",
+    "Liaison.md",
+    "effects/+2 Gold.md",
+    "strategies/Alchemical Changeling.md",
+    "card types/Attack.md",
+    "cards/nights/Changeling.md"
   ]
 }

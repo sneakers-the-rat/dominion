@@ -1,0 +1,1 @@
+When a deck has multiple types of cards in it

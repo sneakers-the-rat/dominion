@@ -1,0 +1,2 @@
+[[Effect On Play]]
+[[Trash]]

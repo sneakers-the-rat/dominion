@@ -1,0 +1,2 @@
+[[Trash]]
+[[Shit Card]]

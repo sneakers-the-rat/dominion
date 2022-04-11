@@ -7,7 +7,7 @@
         "id": "6afcaffcfb78f900",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inco",
+                "query": "hireling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,15 +84,15 @@
   },
   "active": "6afcaffcfb78f900",
   "lastOpenFiles": [
-    "cards/allies/League of Bankers.md",
-    "Embargo.md",
-    "Untitled.md",
-    "Spoils.md",
-    "cards/action/Skulk.md",
-    "Liaison.md",
-    "effects/+2 Gold.md",
-    "strategies/Alchemical Changeling.md",
-    "card types/Attack.md",
-    "cards/nights/Changeling.md"
+    "cards/Underling.md",
+    "effects/Effect On Play.md",
+    "effects/Trash On Play.md",
+    "cards/action/Sage.md",
+    "Key.md",
+    "Treasurer.md",
+    "effects/Gain From Trash.md",
+    "Mountain Catapult.md",
+    "Catapult.md",
+    "Rock.md"
   ]
 }

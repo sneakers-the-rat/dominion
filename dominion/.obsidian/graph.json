@@ -25,7 +25,7 @@
       "query": "path:people",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16449791
       }
     },
     {
@@ -50,16 +50,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.50334558823529,
   "lineSizeMultiplier": 2.2177734375,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.11622191011236,
-  "repelStrength": 20,
-  "linkStrength": 0.418275983146067,
+  "repelStrength": 12.2524578651685,
+  "linkStrength": 0.659849016853933,
   "linkDistance": 30,
-  "scale": 0.04909400100850783,
-  "close": true
+  "scale": 0.20295035318334184,
+  "close": false
 }

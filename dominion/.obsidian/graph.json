@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:Action",
+  "search": "-path:\"card types\"",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,58 +8,58 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"cards/\"",
+      "query": "path:/cards/action",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 7734661
       }
     },
     {
-      "query": "path:\"effects/\"",
+      "query": "path:/cards/treasure",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16505875
       }
     },
     {
-      "query": "path:people",
+      "query": "path:/cards/horizontal",
       "color": {
         "a": 1,
-        "rgb": 16449791
+        "rgb": 13620179
       }
     },
     {
-      "query": "path:strategies",
+      "query": "path:/effects",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 9306369
       }
     },
     {
-      "query": "path:\"card types\"",
+      "query": "path:/strategies",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 62883
       }
     },
     {
-      "query": "path:expansions",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5419488
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.50334558823529,
-  "lineSizeMultiplier": 2.2177734375,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.11622191011236,
-  "repelStrength": 12.2524578651685,
-  "linkStrength": 0.659849016853933,
-  "linkDistance": 30,
-  "scale": 0.20295035318334184,
+  "centerStrength": 0.07373046875,
+  "repelStrength": 20,
+  "linkStrength": 0.9981689453125,
+  "linkDistance": 250,
+  "scale": 0.10571428832935545,
   "close": false
 }

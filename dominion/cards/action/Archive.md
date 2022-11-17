@@ -3,7 +3,7 @@
 [[Duration]]
 [[+ Action]]
 [[Set Aside]]
-[
+
 
 Set aside the top 3 cards of your deck. Now ant at the start of your next two turns, put one into your hand.
 

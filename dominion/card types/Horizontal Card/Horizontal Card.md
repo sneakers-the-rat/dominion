@@ -4,6 +4,6 @@
 [[Hex]]
 [[State]]
 [[Artifact]]
-[[Project]]
+[[card types/Horizontal Card/Project]]
 [[Way]]
 [[Ally]]

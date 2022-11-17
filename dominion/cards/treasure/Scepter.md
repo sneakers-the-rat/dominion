@@ -8,3 +8,5 @@
 Good with [[Scholar]] and [[+ Buys]] where you can play scholar at the end of your action phase, then play scepter, and then replay Scholar to get  
 
 Also good with [[Artisan]] because it lets you get infinity of these.
+
+Also good with [[Giant]] because you can double play it

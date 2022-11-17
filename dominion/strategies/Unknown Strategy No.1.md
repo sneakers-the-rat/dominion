@@ -2,7 +2,7 @@
 [[Strategy]]
 
 [[Archive]]
-[[RatCatcher]]
+[[Rat Catcher]]
 [[Cardinal]]
 [[Ducat]]
 [[Patrician]]
